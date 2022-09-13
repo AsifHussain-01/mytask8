@@ -1,0 +1,109 @@
+.contaner {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#e9ecef;
+}
+
+.head {
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+}
+.topsvg{
+    width: 50px;
+    height: 50px;
+    padding-left: 50px;
+    margin-top: 15px;
+
+}
+.navbar{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 15px;
+padding-left: 80px;
+
+}
+.nav{
+    display: flex;
+    gap: 50px;
+    font-size: 18px;
+}
+.li{
+    list-style: none;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    gap: 15px;
+    padding-right: 50px;
+}
+.cb{
+width: 120px;
+height: 30px;
+background-color: orange;
+color: white;
+border: none;
+font-size: 14px;
+}
+.sb{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+    font-size: 14px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    margin-top: 100px;
+}
+.para{
+    font-size: 16px;
+    font-weight: 300;
+    width: 350px;
+    line-height: 2;
+    padding-top: 50px;
+}
+.span{
+font-size: 48px;
+font-weight: 700;
+}
+.csvg{
+    width: 800px;
+    height: 400px;
+}
+.bbutton{
+padding-left: 70px;
+margin-bottom: 50px;
+
+}
+.bb1{
+width: 100px;
+height: 35px;
+background-color:#11ab7c;
+border: 1px solid #11ab7c;
+}
+.bb2{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    
+}
