@@ -1,5 +1,5 @@
 .b{
-    background: linear-gradient(to top left, #00ccff 37%, #0066ff 94%);
+    background-color:#e9ecef;
 }
 .contaner{
     background-color: white;
@@ -80,7 +80,7 @@ cursor: pointer;
     width: 100%;
     max-width: 500px;
     height: 40px;
-    background: linear-gradient(to top left, #00ccff 37%, #0066ff 94%);
+    background-color: blue;
     border-radius: 56px;
     border: none;
     cursor: pointer;
