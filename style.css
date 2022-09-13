@@ -58,13 +58,17 @@ padding-left: 80px;
     
 }
 .cb{
-width: 120px;
+width: 130px;
 height: 30px;
 background-color: orange;
 color: white;
 border: none;
 font-size: 14px;
 cursor: pointer;
+background-image: url(./currency_exchange_FILL0_wght400_GRAD0_opsz48.svg);
+background-repeat: no-repeat;
+background-size: 20px;
+background-position: center left;
 }
 .sb{
     background-color: blue;
@@ -74,6 +78,10 @@ cursor: pointer;
     border: none;
     font-size: 14px;
     cursor: pointer;
+    background-image: url(./input_FILL0_wght400_GRAD0_opsz48.svg);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center left;
 }
 .center{
     display: flex;
@@ -103,17 +111,23 @@ margin-bottom: 50px;
 
 }
 .bb1{
-width: 100px;
+width: 170px;
 height: 35px;
 background-color:#11ab7c;
 border: 1px solid #11ab7c;
 cursor: pointer;
+background-image: url(./local_library_FILL0_wght400_GRAD0_opsz48.svg);
+background-repeat: no-repeat;
+background-size: 35px;
+margin-right: 15px;
 }
 .bb2{
-    width: 150px;
+    width: 170px;
     height: 35px;
     background-color: rgb(255, 255, 255);
     border:none;
     cursor: pointer;
-    
+    background-image: url(./sim_card_download_FILL0_wght400_GRAD0_opsz48.svg);
+    background-repeat: no-repeat;
+background-size: 35px;
 }
